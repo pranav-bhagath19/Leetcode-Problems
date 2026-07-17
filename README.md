@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
