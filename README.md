@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
