@@ -19,6 +19,7 @@
 | [0009-palindrome-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
+| [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
