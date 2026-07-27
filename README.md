@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -65,11 +66,13 @@
 | [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
