@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
