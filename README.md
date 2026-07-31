@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## String
