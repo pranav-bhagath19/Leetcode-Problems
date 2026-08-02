@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -31,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -117,4 +119,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
