@@ -25,6 +25,7 @@
 | [1920-build-array-from-permutation](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3731-find-missing-elements](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0001-two-sum](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
