@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
