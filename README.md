@@ -76,6 +76,7 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/pranav-bhagath19/Leetcode-Problems/tree/master/0183-customers-who-never-order) |
 ## Sorting
 |  |
